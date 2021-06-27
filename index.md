@@ -1,5 +1,6 @@
-### **[Blog](blog.md)** | **[CTF Writeups](ctf.md)**
-### <ins>$WHOAMI</ins>
+### <ins>**[Blog](blog.md)** | **[CTF Writeups](ctf.md)**</ins>
+
+### <ins>About Me</ins>
 
 - App Sec Engineer
 - Outdoorsman
