@@ -1,3 +1,3 @@
 # <ins>t4nager</ins>
 
-[Blog](blogs.md)
+[Blog](blog.md)
