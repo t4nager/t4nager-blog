@@ -4,4 +4,4 @@ Where I share what I am doing.
 
 ### <ins>Links</ins>
 
-**[Blog](blogs.md)**
+**[Blog](blog.md) | [CTF Writeups](ctf.md)**
