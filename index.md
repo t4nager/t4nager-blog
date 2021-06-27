@@ -1,7 +1,7 @@
-## t4nager
+## <ins>t4nager</ins>
 
 Where I share what I am doing.
 
-### Links
+### <ins>Links</ins>
 
 **[Blog](blogs.md)**
