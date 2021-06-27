@@ -1,7 +1,9 @@
-## <ins>t4nager</ins>
+### **[Blog](blog.md)** | **[CTF Writeups](ctf.md)**
+### <ins>$WHOAMI</ins>
 
-Where I share what I am doing.
-
-### <ins>Links</ins>
-
-**[Blog](blog.md)** | **[CTF Writeups](ctf.md)**
+- App Sec Engineer
+- Outdoorsman
+- Climber
+- Kickboxer
+- Music Enthusiast
+- Coffee Addict 
